@@ -7,6 +7,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.body {
+  border-bottom: 2px solid black
+}
+
+.commentText {
+  font-weight: normal;
+}
+
 .App {
   text-align: center;
 }
